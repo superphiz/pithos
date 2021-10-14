@@ -1,3 +1,7 @@
+# Intro
+
+This guide is designed to accompany [this video](https://www.youtube.com/watch?v=mn8ZNrhTzLI) to help users install and become familiar with the Pithos merge testnet for Ethereum.
+
 # pithos
 
 \# Original instructions: https://github.com/parithosh/consensus-deployment-ansible.git
